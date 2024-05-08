@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Soy Sergio Andres Trujillo Garcia un estudiante de la carrera de ingeniería de software, muy interesado en el área de desarrollo, certificado como técnico analista programador, ademas me interesa mucho aprender de temas y areas.
 <!--
 **BouncedCobra/BouncedCobra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
