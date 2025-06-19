@@ -43,6 +43,10 @@ Soy un desarrollador de back-end egresado de la carrera de ingeniería de softwa
 
 ###
 
+<img align="left" height="150" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"  />
+
+###
+
 <br clear="both">
 
 ###
